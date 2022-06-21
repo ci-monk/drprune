@@ -10,7 +10,7 @@ require (
 	github.com/logrusorgru/aurora/v3 v3.0.0
 	github.com/pterm/pterm v0.12.37
 	github.com/sirupsen/logrus v1.8.1
-	github.com/spf13/cobra v1.3.0
+	github.com/spf13/cobra v1.5.0
 	github.com/xanzy/go-gitlab v0.58.0
 	golang.org/x/oauth2 v0.0.0-20220223155221-ee480838109b
 )
